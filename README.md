@@ -118,14 +118,7 @@ This dataset is used to:
 - Mobile Model Sales Comparison
 - Day-wise Sales Analysis
 
----
 
-
-# 📸 Dashboard Screenshot
-
-## Main Dashboard
-
-![Motorola Sales Dashboard](Motorola-sales.png)
 
 ---
 
