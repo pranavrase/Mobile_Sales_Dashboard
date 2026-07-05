@@ -1,4 +1,4 @@
-# Motorola Sales Dashboard 📊
+# Mobile Sales Dashboard 📊
 
 An interactive **Power BI Dashboard** built to analyze mobile sales performance, customer behavior, payment trends, and regional sales distribution.
 
@@ -37,8 +37,6 @@ The dashboard enables better business decisions through visual analytics.
 
 # 📂 Dataset Information
 
-## Source
-Raw Dataset collected from **Kaggle**-[Download Dataset](https://github.com/pranavrase/Motorola-Sales_Dashboard/blob/main/Motorola%20Raw%20Data.xlsx).
 
 The dataset contains mobile sales transaction records used to analyze sales performance, customer behavior, and payment trends.
 
@@ -161,18 +159,6 @@ Use customer feedback and ratings to:
 - Build loyalty programs
 - Encourage repeat purchases
 
----
 
-# 📁 Project Structure
-
-```bash
-Motorola-Sales-Dashboard/
-│
-├──Dataset/
-│   └── Motorola Raw Data.xlsx
-├── Screenshots/
-│   └── feb-sales.png
-├── Motorola-Sales.pbix
-└──  README.md
 
 
